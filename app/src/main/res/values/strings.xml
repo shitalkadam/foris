@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">foris.io</string>
+    <string name="sensor_register_text">Register Sensor</string>
+    <string name="communication_text">Interact</string>
+    <string name="question_text">ask question...</string>
+</resources>
